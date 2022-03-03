@@ -1,0 +1,2 @@
+2022.03.03 18:05:15 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\.metals\lsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.03.03 18:05:15 INFO  logging to file C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\.metals\metals.log

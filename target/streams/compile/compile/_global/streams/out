@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala:11:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.{Row, DataFrame}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala:26:15: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m  val spark = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala:41:20: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def storeCSV(df: DataFrame, folderPath: String): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
