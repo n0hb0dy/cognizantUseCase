@@ -1,2 +1,607 @@
 2022.03.03 18:05:15 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\.metals\lsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2022.03.03 18:05:15 INFO  logging to file C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\.metals\metals.log
+2022.03.03 18:05:15 INFO  Started: Metals version 0.11.1 in workspace 'C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase' for client Visual Studio Code 1.65.0.
+2022.03.03 18:05:15 INFO  Parse release: 15.0.2
+2022.03.03 18:05:17 INFO  time: initialize in 2.1s
+2022.03.03 18:05:18 WARN  Build server is not auto-connectable.
+2022.03.03 18:05:21 INFO  running 'C:\Program Files\Java\jdk-15.0.2\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\98jjm\AppData\Local\Temp\metals16081310678088847034\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.03 18:05:22 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 15.0.2)
+2022.03.03 18:05:24 INFO  [info] loading settings for project cognizantusecase-build-build from metals.sbt ...
+2022.03.03 18:05:24 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\project
+2022.03.03 18:05:26 INFO  [info] loading settings for project cognizantusecase-build from metals.sbt ...
+2022.03.03 18:05:26 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project
+2022.03.03 18:05:29 INFO  [success] Generated .bloop\cognizantusecase-build.json
+2022.03.03 18:05:29 INFO  [info] compiling 1 Scala source to C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\target\scala-2.12\sbt-1.0\classes ...
+2022.03.03 18:05:31 INFO  [info] done compiling
+2022.03.03 18:05:31 INFO  [success] Total time: 5 s, completed Mar 3, 2022, 6:05:31 PM
+2022.03.03 18:05:32 INFO  [info] loading settings for project root from build.sbt ...
+2022.03.03 18:05:32 INFO  [info] set current project to cognizantusecase (in build file:/C:/Users/98jjm/OneDrive/Documents/_VSCODE/Cognizant_Use_Case/cognizantUseCase/)
+2022.03.03 18:05:32 INFO  [success] Generated .bloop\root-test.json
+2022.03.03 18:05:32 INFO  [success] Generated .bloop\root.json
+2022.03.03 18:05:32 INFO  [success] Total time: 0 s, completed Mar 3, 2022, 6:05:33 PM
+2022.03.03 18:05:33 INFO  time: ran 'sbt bloopInstall' in 11s
+2022.03.03 18:05:33 INFO  Attempting to connect to the build server...
+2022.03.03 18:05:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\.metals\bsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.03.03 18:05:41 INFO  Attempting to connect to the build server...
+2022.03.03 18:05:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\.metals\bsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.03.03 18:05:42 INFO  time: Connected to build server in 9.74s
+2022.03.03 18:05:42 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.03 18:05:47 INFO  time: indexed workspace in 4.45s
+2022.03.03 18:05:52 INFO  compiling root (1 scala source)
+2022.03.03 18:05:59 INFO  time: compiled root in 6.96s
+Mar 03, 2022 6:06:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 56 is not a valid line number, allowed [0..2]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1592)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1591)
+	... 16 more
+
+Mar 03, 2022 6:06:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.IllegalArgumentException: 56 is not a valid line number, allowed [0..2]
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: 56 is not a valid line number, allowed [0..2]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2152)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: java.lang.IllegalArgumentException: 56 is not a valid line number, allowed [0..2]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.InsertInferredType.$anonfun$contribute$1(InsertInferredType.scala:69)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+2022.03.03 18:06:39 INFO  compiling root (1 scala source)
+2022.03.03 18:06:39 INFO  time: compiled root in 0.26s
+Mar 03, 2022 6:06:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2022.03.03 18:06:41 INFO  compiling root (1 scala source)
+2022.03.03 18:06:41 INFO  time: compiled root in 0.18s
+2022.03.03 18:07:10 INFO  compiling cognizantusecase-build (1 scala source)
+2022.03.03 18:07:10 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.15. Compiling...
+2022.03.03 18:07:11 INFO  time: code lens generation in 1.66s
+2022.03.03 18:07:11 INFO  time: code lens generation in 1.66s
+2022.03.03 18:07:16 INFO    Compilation completed in 5.957s.
+2022.03.03 18:07:17 INFO  time: compiled cognizantusecase-build in 7.32s
+2022.03.03 18:08:18 INFO  Disconnecting from Bloop session...
+2022.03.03 18:08:18 ERROR build shutdown: bloop
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:102)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:99)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at com.sun.proxy.$Proxy10.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:102)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:99)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+Caused by: java.io.IOException: Connection reset by peer
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:113)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:79)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:50)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:506)
+	at sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:114)
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+	at java.nio.channels.Channels.writeFully(Channels.java:94)
+	at java.nio.channels.Channels$1.write(Channels.java:172)
+	at java.io.OutputStream.write(OutputStream.java:127)
+	at java.nio.channels.Channels$1.write(Channels.java:152)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at com.sun.proxy.$Proxy10.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:102)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:99)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+2022.03.03 18:08:18 ERROR build shutdown: bloop
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:102)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:99)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at com.sun.proxy.$Proxy10.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:102)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:99)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+Caused by: java.io.IOException: Connection reset by peer
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:113)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:79)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:50)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:506)
+	at sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:114)
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+	at java.nio.channels.Channels.writeFully(Channels.java:94)
+	at java.nio.channels.Channels$1.write(Channels.java:172)
+	at java.io.OutputStream.write(OutputStream.java:127)
+	at java.nio.channels.Channels$1.write(Channels.java:152)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:68)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at com.sun.proxy.$Proxy10.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:102)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:99)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+2022.03.03 18:08:18 INFO  Attempting to connect to the build server...
+2022.03.03 18:08:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\.metals\bsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.03.03 18:08:22 INFO  Attempting to connect to the build server...
+2022.03.03 18:08:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\.metals\bsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.03.03 18:08:22 INFO  time: Connected to build server in 4s
+2022.03.03 18:08:22 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.03 18:08:24 INFO  time: indexed workspace in 1.63s
+2022.03.03 18:08:24 INFO  compiling root (1 scala source)
+2022.03.03 18:08:24 INFO  compiling cognizantusecase-build (1 scala source)
+2022.03.03 18:08:26 INFO  time: compiled root in 1.56s
+2022.03.03 18:08:27 INFO  time: compiled cognizantusecase-build in 2.62s
+2022.03.03 18:08:44 INFO  running 'C:\Program Files\Java\jdk-15.0.2\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\98jjm\AppData\Local\Temp\metals8703597269461340467\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.03 18:08:45 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 15.0.2)
+2022.03.03 18:08:45 INFO  [info] loading settings for project cognizantusecase-build-build from metals.sbt ...
+2022.03.03 18:08:45 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\project
+2022.03.03 18:08:46 INFO  [info] loading settings for project cognizantusecase-build from metals.sbt ...
+2022.03.03 18:08:46 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project
+2022.03.03 18:08:48 INFO  [success] Generated .bloop\cognizantusecase-build.json
+2022.03.03 18:08:48 INFO  [success] Total time: 2 s, completed Mar 3, 2022, 6:08:48 PM
+2022.03.03 18:08:50 INFO  [info] loading settings for project root from build.sbt ...
+2022.03.03 18:08:50 INFO  [info] set current project to cognizantusecase (in build file:/C:/Users/98jjm/OneDrive/Documents/_VSCODE/Cognizant_Use_Case/cognizantUseCase/)
+2022.03.03 18:08:54 INFO  [success] Generated .bloop\root.json
+2022.03.03 18:08:54 INFO  [success] Generated .bloop\root-test.json
+2022.03.03 18:08:54 INFO  [success] Total time: 4 s, completed Mar 3, 2022, 6:08:54 PM
+2022.03.03 18:08:54 INFO  time: ran 'sbt bloopInstall' in 10s
+2022.03.03 18:08:54 INFO  Disconnecting from Bloop session...
+2022.03.03 18:08:54 INFO  Shut down connection with build server.
+2022.03.03 18:08:54 INFO  Shut down connection with build server.
+2022.03.03 18:08:54 INFO  Attempting to connect to the build server...
+2022.03.03 18:08:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\.metals\bsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.03.03 18:08:54 INFO  Attempting to connect to the build server...
+2022.03.03 18:08:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\.metals\bsp.trace.json or C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.03.03 18:08:54 INFO  time: Connected to build server in 82ms
+2022.03.03 18:08:54 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.03 18:08:55 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.03 18:08:55 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.03 18:08:55 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.03 18:08:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:08:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:08:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:08:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:08:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:08:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:08:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:08:59 INFO  time: indexed workspace in 4.7s
+2022.03.03 18:08:59 INFO  compiling root (1 scala source)
+2022.03.03 18:09:00 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:00 WARN  unsupported Scala 2.11.8
+2022.03.03 18:08:59 INFO  time: compiled root in 0.91s
+2022.03.03 18:09:06 INFO  compiling root (1 scala source)
+2022.03.03 18:09:06 INFO  time: compiled root in 0.14s
+2022.03.03 18:09:18 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:18 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:18 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:18 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:20 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:20 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:25 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:25 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:25 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:25 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:25 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:25 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:27 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:27 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:27 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:27 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:27 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:27 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:29 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:29 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:29 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:29 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:30 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:30 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:30 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:30 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:30 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:30 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:34 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:34 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:34 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:34 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:34 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:34 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:36 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:36 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:36 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:36 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:37 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:37 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:37 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:37 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:39 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:39 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:39 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:39 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:40 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:40 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:41 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:41 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:43 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:43 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:43 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:43 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:45 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:45 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:45 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:45 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:47 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:47 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:48 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:48 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:48 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:48 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:48 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:48 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:48 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:48 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:48 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:48 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:48 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:48 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:49 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:49 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:49 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:49 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:53 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:53 WARN  unsupported Scala 2.11.8
+2022.03.03 18:09:54 INFO  compiling root (1 scala source)
+2022.03.03 18:09:54 INFO  time: compiled root in 96ms
+2022.03.03 18:09:56 INFO  No mtags for 2.11.8.
+2022.03.03 18:09:56 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:01 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:01 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:01 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:01 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:01 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:01 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:04 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:04 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:06 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:06 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:06 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:06 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:06 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:06 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:08 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:08 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:08 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:08 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:13 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:13 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:13 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:13 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:15 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:15 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:15 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:15 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:15 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:15 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:18 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:18 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:20 INFO  compiling root (1 scala source)
+2022.03.03 18:10:20 INFO  time: compiled root in 0.1s
+2022.03.03 18:10:23 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:23 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:25 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:25 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:25 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:25 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:25 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:25 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:26 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:26 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:26 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:26 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:31 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:31 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:31 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:31 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:33 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:33 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:33 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:33 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:33 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:33 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:35 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:35 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:35 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:35 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:36 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:36 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:38 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:38 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:48 INFO  compiling root (1 scala source)
+2022.03.03 18:10:48 INFO  time: compiled root in 0.1s
+2022.03.03 18:10:50 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:50 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:50 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:50 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:51 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:51 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:51 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:51 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:51 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:51 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:52 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:52 WARN  unsupported Scala 2.11.8
+2022.03.03 18:10:52 INFO  No mtags for 2.11.8.
+2022.03.03 18:10:52 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:05 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:05 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:05 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:05 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:09 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:09 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:09 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:09 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:09 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:09 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:23 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:23 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:23 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:23 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:26 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:26 WARN  unsupported Scala 2.11.8
+2022.03.03 18:11:59 INFO  No mtags for 2.11.8.
+2022.03.03 18:11:59 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:00 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:00 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:00 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:00 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:00 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:00 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:01 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:01 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:01 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:01 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:02 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:02 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:04 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:04 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:08 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:08 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:19 INFO  compiling root (1 scala source)
+2022.03.03 18:12:19 INFO  time: compiled root in 0.12s
+2022.03.03 18:12:20 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:20 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:20 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:20 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:22 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:22 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:22 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:22 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:24 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:24 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:24 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:24 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:27 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:27 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:27 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:27 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:32 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:32 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:34 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:34 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:35 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:35 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:36 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:36 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:36 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:36 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:42 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:42 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:47 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:47 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:57 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:57 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:57 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:57 WARN  unsupported Scala 2.11.8
+2022.03.03 18:12:57 INFO  No mtags for 2.11.8.
+2022.03.03 18:12:57 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:04 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:04 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:04 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:04 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:04 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:04 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:06 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:06 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:06 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:06 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:10 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:10 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:10 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:10 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:11 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:11 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:35 INFO  compiling root (1 scala source)
+2022.03.03 18:13:35 INFO  time: compiled root in 0.1s
+2022.03.03 18:13:38 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:38 WARN  unsupported Scala 2.11.8
+2022.03.03 18:13:38 INFO  No mtags for 2.11.8.
+2022.03.03 18:13:38 WARN  unsupported Scala 2.11.8
+2022.03.03 18:14:43 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.03 18:14:43 WARN  unsupported Scala 2.11.8
+2022.03.03 18:14:43 INFO  No mtags for 2.11.8.
+2022.03.03 18:14:43 WARN  unsupported Scala 2.11.8
+2022.03.03 18:14:43 INFO  No mtags for 2.11.8.
+2022.03.03 18:14:43 WARN  unsupported Scala 2.11.8
+2022.03.03 18:14:43 INFO  No mtags for 2.11.8.
+2022.03.03 18:14:43 WARN  unsupported Scala 2.11.8
+2022.03.03 18:14:46 INFO  No mtags for 2.11.8.
+2022.03.03 18:14:46 WARN  unsupported Scala 2.11.8
+2022.03.03 18:15:06 INFO  No mtags for 2.11.8.
+2022.03.03 18:15:06 WARN  unsupported Scala 2.11.8
+Mar 03, 2022 6:19:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.03.03 18:20:05 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.03 18:20:05 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:05 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:05 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:05 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:05 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:05 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:05 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:13 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:13 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:13 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:13 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:26 INFO  compiling root (1 scala source)
+2022.03.03 18:20:26 INFO  time: compiled root in 0.29s
+2022.03.03 18:20:28 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:28 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:48 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:48 WARN  unsupported Scala 2.11.8
+2022.03.03 18:20:53 INFO  No mtags for 2.11.8.
+2022.03.03 18:20:53 WARN  unsupported Scala 2.11.8

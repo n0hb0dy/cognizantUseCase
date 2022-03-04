@@ -35,14 +35,14 @@ object Main extends App {
   println("\nReading the data Set...\n")
   val parqDF1 = spark
     .read
-    .cs1v("/user/maria_dev/example.csv")
+    .csv("/user/maria_dev/example.csv")
   println("Done...\n")
 
   def storeCSV(df: DataFrame, folderPath: String): Unit = {
-    if (scala.io.StdIn.readLine("Store in CSV? >> (y/n)").toLowerCase == "y")
+    if (scala.io.StdIn.readLine("Store in Parquet? >> (y/n)").toLowerCase == "y")
       df.coalesce(1)
         .write
         .mode("overwrite")
-        .csv(s"$folderPath")
+        .Parquet(s"$folderPath")
   }
 }
