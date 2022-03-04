@@ -605,3 +605,115 @@ Error downloading org.scalameta:mtags_2.11.8:0.11.1
 2022.03.03 18:20:48 WARN  unsupported Scala 2.11.8
 2022.03.03 18:20:53 INFO  No mtags for 2.11.8.
 2022.03.03 18:20:53 WARN  unsupported Scala 2.11.8
+2022.03.03 18:21:53 INFO  No mtags for 2.11.8.
+2022.03.03 18:21:53 WARN  unsupported Scala 2.11.8
+2022.03.03 18:21:53 INFO  No mtags for 2.11.8.
+2022.03.03 18:21:53 WARN  unsupported Scala 2.11.8
+2022.03.03 18:21:55 INFO  No mtags for 2.11.8.
+2022.03.03 18:21:55 WARN  unsupported Scala 2.11.8
+2022.03.03 20:01:11 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.03 20:01:11 WARN  unsupported Scala 2.11.8
+2022.03.04 16:25:33 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.04 16:25:33 WARN  unsupported Scala 2.11.8
+2022.03.04 16:25:33 INFO  No mtags for 2.11.8.
+2022.03.04 16:25:33 WARN  unsupported Scala 2.11.8
+2022.03.04 16:25:33 INFO  No mtags for 2.11.8.
+2022.03.04 16:25:33 WARN  unsupported Scala 2.11.8
+2022.03.04 16:25:33 INFO  No mtags for 2.11.8.
+2022.03.04 16:25:33 WARN  unsupported Scala 2.11.8
+2022.03.04 16:25:33 INFO  No mtags for 2.11.8.
+2022.03.04 16:25:33 WARN  unsupported Scala 2.11.8
+2022.03.04 16:25:34 INFO  No mtags for 2.11.8.
+2022.03.04 16:25:34 WARN  unsupported Scala 2.11.8
+2022.03.04 16:25:34 INFO  No mtags for 2.11.8.
+2022.03.04 16:25:34 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:11 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:11 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:11 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:11 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:13 INFO  compiling root (1 scala source)
+2022.03.04 16:26:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:13 INFO  time: compiled root in 0.23s
+2022.03.04 16:26:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:14 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:14 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:14 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:14 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:16 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:16 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:17 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:17 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:17 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:17 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:18 INFO  compiling root (1 scala source)
+2022.03.04 16:26:18 INFO  time: compiled root in 98ms
+2022.03.04 16:26:20 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:20 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:20 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:20 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:22 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:22 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:22 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:22 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:22 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:22 WARN  unsupported Scala 2.11.8
+2022.03.04 16:26:22 INFO  No mtags for 2.11.8.
+2022.03.04 16:26:22 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:01 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:01 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:01 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:01 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:02 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:02 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:04 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:04 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:04 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:04 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:05 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:05 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:05 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:05 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:11 INFO  No mtags for 2.11.8.
+2022.03.04 16:27:11 WARN  unsupported Scala 2.11.8
+2022.03.04 16:27:54 INFO  compiling root (1 scala source)
+2022.03.04 16:27:54 INFO  time: compiled root in 0.1s
+2022.03.04 16:28:11 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:11 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:11 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:11 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:11 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:11 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:12 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:12 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:12 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:12 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:13 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:13 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:15 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:15 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:15 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:15 WARN  unsupported Scala 2.11.8
+2022.03.04 16:28:32 INFO  No mtags for 2.11.8.
+2022.03.04 16:28:32 WARN  unsupported Scala 2.11.8
