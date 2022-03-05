@@ -22,7 +22,7 @@ import org.apache.spark.sql.{Row, DataFrame}
 // import scala.collection.mutable.ListBuffer
 // import scala.io.Source
 
-object Main extends App {
+object main extends App {
   val spark = SparkSession
     .builder()
     .master("local[1]")
@@ -32,17 +32,22 @@ object Main extends App {
   import spark.implicits._
   spark.sparkContext.setLogLevel("ERROR")
 
+  val mainSchema = new StructType()
+    .add("RecordNumber", IntegerType, true)
+    .add("Zipcode", IntegerType, true)
+    .add("ZipCodeType", StringType, true)
+
   println("\nReading the data Set...\n")
-  val parqDF1 = spark
-    .read
-    .csv("/user/maria_dev/example.csv")
+  val csvDF = spark.read
+    .format("csv")
+    .option("header", true)
+    .schema(mainSchema)
+    .load("file:///home/maria_dev/SparkSamples/resources/zipcodes.csv")
   println("Done...\n")
 
-  def storeCSV(df: DataFrame, folderPath: String): Unit = {
-    if (scala.io.StdIn.readLine("Store in Parquet? >> (y/n)").toLowerCase == "y")
-      df.coalesce(1)
-        .write
-        .mode("overwrite")
-        .Parquet(s"$folderPath")
-  }
+  if (scala.io.StdIn.readLine("Store in Parquet? >> (y/n)").toLowerCase == "y")
+    df.coalesce(1)
+      .write
+      .mode("overwrite")
+      .Parquet(s"$folderPath")
 }

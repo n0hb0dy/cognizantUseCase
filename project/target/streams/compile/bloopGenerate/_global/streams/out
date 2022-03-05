@@ -1,4 +1,4 @@
-[debug] [cognizantusecase-build] Classpath dependencies List()
-[debug] [cognizantusecase-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'cognizantusecase-build' to 'C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\.bloop\cognizantusecase-build.json'
-[success] Generated .bloop\cognizantusecase-build.json
+[0m[[0m[0mdebug[0m] [0m[0m[cognizantusecase-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[cognizantusecase-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'cognizantusecase-build' to 'C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\project\.bloop\cognizantusecase-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop\cognizantusecase-build.json[0m
