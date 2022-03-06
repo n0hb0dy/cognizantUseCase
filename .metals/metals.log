@@ -1211,3 +1211,12 @@ INFO: Unsupported notification method: $/setTrace
 2022.03.05 19:02:24 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
 2022.03.05 19:02:27 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
 2022.03.05 19:02:27 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 19:02:33 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 19:02:33 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 19:03:13 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.05 19:03:13 WARN  unsupported Scala 2.11.8
