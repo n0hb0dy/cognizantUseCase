@@ -893,3 +893,285 @@ Error downloading org.scalameta:mtags_2.11.8:0.11.1
 2022.03.05 18:47:30 WARN  unsupported Scala 2.11.8
 2022.03.05 18:47:30 INFO  compiling root (1 scala source)
 2022.03.05 18:47:30 INFO  time: compiled root in 0.13s
+2022.03.05 18:49:53 WARN  no build target for: C:\Users\98jjm\OneDrive\Documents\_Revature_Code\Samples\Oct2021ScalaBatch\SparkSamples\sparkscala\src\main\scala\example\readcsvdf.scala
+2022.03.05 18:50:30 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:50:30 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:30 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:30 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:30 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:32 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:32 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:32 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:32 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:33 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:33 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:33 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:33 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:34 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:50:34 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:50:36 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:50:38 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:38 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:50 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:50 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:52 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:52 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:52 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:50:52 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:50:54 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:54 WARN  unsupported Scala 2.11.8
+2022.03.05 18:50:59 INFO  No mtags for 2.11.8.
+2022.03.05 18:50:59 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:02 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:02 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:13 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:13 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:13 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:13 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:13 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:13 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:13 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:14 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:14 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:14 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:14 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:14 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:14 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:15 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:14 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:14 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:15 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:16 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:16 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:16 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:16 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:17 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:17 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:17 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:18 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:18 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:18 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:18 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:18 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:18 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:21 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:21 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:22 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:22 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:22 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:24 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:24 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:24 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:29 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:29 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:36 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:36 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:40 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:40 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:40 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:40 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:40 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:42 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:42 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:42 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:42 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:42 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:42 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:42 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:44 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:45 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:45 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:44 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:45 INFO  compiling root (1 scala source)
+2022.03.05 18:51:45 INFO  time: compiled root in 0.12s
+2022.03.05 18:51:46 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:46 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:51:47 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:47 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:47 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:47 WARN  unsupported Scala 2.11.8
+2022.03.05 18:51:47 INFO  No mtags for 2.11.8.
+2022.03.05 18:51:47 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:17 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:17 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:17 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:17 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:18 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:18 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:18 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:18 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:19 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:18 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:18 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:19 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:19 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:18 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:18 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:19 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:19 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:18 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:18 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:19 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:19 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:19 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:19 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:22 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:22 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:23 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:23 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:24 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:24 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:24 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:28 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:28 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:28 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:29 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:29 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:29 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:31 INFO  compiling root (1 scala source)
+2022.03.05 18:52:31 INFO  time: compiled root in 0.1s
+2022.03.05 18:52:31 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:31 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:35 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.05 18:52:35 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:35 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:35 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:35 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:35 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:35 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:35 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:35 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:35 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:35 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:35 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:35 WARN  unsupported Scala 2.11.8
+2022.03.05 18:52:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:38 INFO  compiling root (1 scala source)
+2022.03.05 18:52:38 INFO  time: compiled root in 0.1s
+2022.03.05 18:52:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:38 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:52:43 INFO  No mtags for 2.11.8.
+2022.03.05 18:52:43 WARN  unsupported Scala 2.11.8
+2022.03.05 18:54:03 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:54:03 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:54:19 INFO  No mtags for 2.11.8.
+2022.03.05 18:54:19 WARN  unsupported Scala 2.11.8
+2022.03.05 18:54:45 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:54:46 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:54:46 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:54:45 INFO  No mtags for 2.11.8.
+2022.03.05 18:54:45 WARN  unsupported Scala 2.11.8
+2022.03.05 18:54:48 INFO  No mtags for 2.11.8.
+2022.03.05 18:54:48 WARN  unsupported Scala 2.11.8
+2022.03.05 18:54:56 WARN  no build target for: C:\Users\98jjm\OneDrive\Documents\_Revature_Code\Samples\Oct2021ScalaBatch\SparkSamples\sparkscala\src\main\scala\example\readparquetdf.scala
+2022.03.05 18:55:18 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:18 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:18 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:22 INFO  No mtags for 2.11.8.
+2022.03.05 18:55:22 WARN  unsupported Scala 2.11.8
+2022.03.05 18:55:35 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:35 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:35 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:36 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:36 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:36 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:37 INFO  No mtags for 2.11.8.
+2022.03.05 18:55:37 WARN  unsupported Scala 2.11.8
+2022.03.05 18:55:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:36 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:37 INFO  No mtags for 2.11.8.
+2022.03.05 18:55:37 WARN  unsupported Scala 2.11.8
+2022.03.05 18:55:37 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:39 INFO  No mtags for 2.11.8.
+2022.03.05 18:55:39 WARN  unsupported Scala 2.11.8
+2022.03.05 18:55:39 INFO  No mtags for 2.11.8.
+2022.03.05 18:55:39 WARN  unsupported Scala 2.11.8
+2022.03.05 18:55:40 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:41 INFO  No mtags for 2.11.8.
+2022.03.05 18:55:41 WARN  unsupported Scala 2.11.8
+2022.03.05 18:55:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:41 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:43 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:48 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:48 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:55:48 INFO  No mtags for 2.11.8.
+2022.03.05 18:55:48 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:07 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:07 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:10 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:10 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:10 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:10 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:16 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:56:16 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:56:21 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:21 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:21 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:56:21 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:21 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:21 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:21 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:22 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:56:22 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:56:22 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:22 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:22 INFO  compiling root (1 scala source)
+2022.03.05 18:56:22 INFO  time: compiled root in 0.11s
+2022.03.05 18:56:22 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:56:23 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:56:22 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:22 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:24 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:24 WARN  unsupported Scala 2.11.8
+2022.03.05 18:56:24 INFO  No mtags for 2.11.8.
+2022.03.05 18:56:24 WARN  unsupported Scala 2.11.8
+2022.03.05 18:57:40 ERROR Failed to fetch mtags for 2.11.8
+Error downloading org.scalameta:mtags_2.11.8:0.11.1
+  not found: C:\Users\98jjm\.ivy2\local\org.scalameta\mtags_2.11.8\0.11.1\ivys\ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.8/0.11.1/mtags_2.11.8-0.11.1.pom
+2022.03.05 18:57:40 WARN  unsupported Scala 2.11.8
+2022.03.05 18:57:40 INFO  No mtags for 2.11.8.
+2022.03.05 18:57:40 WARN  unsupported Scala 2.11.8
+2022.03.05 18:57:40 INFO  No mtags for 2.11.8.
+2022.03.05 18:57:40 WARN  unsupported Scala 2.11.8
+2022.03.05 18:57:40 INFO  No mtags for 2.11.8.
+2022.03.05 18:57:40 WARN  unsupported Scala 2.11.8
+Mar 05, 2022 6:59:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 05, 2022 6:59:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.03.05 18:59:13 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
+2022.03.05 18:59:13 WARN  Could not load snapshot text for C:\Users\98jjm\OneDrive\Documents\_VSCODE\Cognizant_Use_Case\cognizantUseCase\src\main\scala\example\main.scala
